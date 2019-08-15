@@ -1,5 +1,5 @@
 <#
-Pretty simple script to compare the time of all local Windows servers against a single server (i.e. Domain Controller)
+Pretty simple PRTG script to compare the time of all local Windows servers against a single server (i.e. Domain Controller)
 #>
 
 Import-Module ActiveDirectory
