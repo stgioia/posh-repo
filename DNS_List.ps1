@@ -6,7 +6,7 @@ use to verify dns/ds replication
 #>
 
 
-$name="xxx"
+$name="xxxxxxxxx"
 $dnsservers=(Resolve-DnsName drl.local -Type NS).Server |sort
 
  
